@@ -1,8 +1,8 @@
 # Student Grades Project
 
 **Name:** Luis Augusto Monserratt Alvarado  
-**Course:** COP 3330C  
-**CRN:** 12345  
+**Course:** COP 3024C  
+**CRN:** 31774  
 
 ## 📘 Description
 
