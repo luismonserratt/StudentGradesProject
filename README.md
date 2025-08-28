@@ -1,5 +1,9 @@
 # Student Grades Project
 
+**Student:** Luis Augusto Monserratt Alvarado  
+**Course:** CEN 3024C – Software Development I  
+**CRN:** 14877  
+**Term:** Fall 2025
 **Name:** Luis Augusto Monserratt Alvarado  
 **Course:** COP 3024C  
 **CRN:** 31774  
