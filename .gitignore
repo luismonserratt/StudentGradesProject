@@ -1,0 +1,9 @@
+# Build artifacts
+*.class
+*.log
+*.iml
+/out/
+# OS
+.DS_Store
+# Temporary
+*.bak
